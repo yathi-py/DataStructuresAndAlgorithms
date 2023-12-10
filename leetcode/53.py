@@ -5,8 +5,8 @@ from typing import List
 
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
-        max_sum = nums[0]   #O(1)
         cur_sum = 0
+        max_sum = nums[0]   #O(1)
 
         for val in nums:   #O(N)
             cur_sum = max(val, cur_sum+val)  #O(1)
@@ -18,4 +18,4 @@ class Solution:
 # = O(1) + O(N) + O(1)
 # = O(N) ignore constants
 sol = Solution()
-print(sol.maxSubArray(nums = [-2,1,-3,4,-1,2,1,-5,4]))
+print(sol.maxSubArray(nums = [1, 4, 2, 10, 2, 3, 1, 0, -20]))
