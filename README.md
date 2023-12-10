@@ -6,3 +6,4 @@ DATA STRUCTURES AND ALGORITHMS IN PYTHON
 - [217--Contains Duplicate](leetcode/217.py) Solution : Hashing
 - [238--Product of Array Except Self](leetcode/238.py) Solution: Prefix-Postfix product technique
 - [53. Maximum Subarray](leetcode/53.py) Solution: Kadane's algorithm (DP)
+- [152. Maximum Product Subarray](leetcode/152.py) Solution: Prefix-Postfix product technique
