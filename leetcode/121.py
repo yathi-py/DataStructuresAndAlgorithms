@@ -1,5 +1,5 @@
 #121. Best Time to Buy and Sell Stock
-
+# Greedy Approach:
 
 from typing import List
 
