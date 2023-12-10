@@ -1,3 +1,5 @@
+# 1768. Merge Strings Alternately
+
 import timeit
 class Solution:
     def two_pointer(self, word1: str, word2: str) -> str:
