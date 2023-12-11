@@ -9,4 +9,5 @@ DATA STRUCTURES AND ALGORITHMS IN PYTHON
 - [152--Maximum Product Subarray](leetcode/152.py) Solution: Prefix-Postfix product technique
 - [153--Find Minimum in Rotated Sorted Array](leetcode/153.py) Solution : Binary search
 - [33--Search in Rotated Sorted Array](leetcode/33.py)Solution Binary Search
+- [15. 3Sum](leetcode/15.py) Solution: Two pointer
 
