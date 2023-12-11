@@ -1,5 +1,6 @@
-DATA STRUCTURES AND ALGORITHMS IN PYTHON
+# DATA STRUCTURES AND ALGORITHMS IN PYTHON
 
+## Arrays
 - [1--Two Sum](leetcode/1.py) Solution : Hashing
 - [1768--Merge Strings Alternately](leetcode/1768.py) Solution : Two pointer
 - [121--Best Time to Buy and Sell Stock](leetcode/121.py) Solution : Greedy
@@ -9,7 +10,9 @@ DATA STRUCTURES AND ALGORITHMS IN PYTHON
 - [152--Maximum Product Subarray](leetcode/152.py) Solution: Prefix-Postfix product technique
 - [153--Find Minimum in Rotated Sorted Array](leetcode/153.py) Solution : Binary search
 - [33--Search in Rotated Sorted Array](leetcode/33.py)Solution Binary Search
-- [15. 3Sum](leetcode/15.py) Solution: Two pointer
-- [11. Container With Most Water](leetcode/11.py) Solution: Two Pointer
+- [15--3Sum](leetcode/15.py) Solution: Two pointer
+- [11--Container With Most Water](leetcode/11.py) Solution: Two Pointer
+
+## Bit Manipulation
 - [371. Sum of Two Integers](leetcode/371.py)
 
