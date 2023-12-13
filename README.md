@@ -21,4 +21,5 @@
 - [ 424. Longest Repeating Character Replacement](leetcode/424.py) Solution: sliding window + hashing
 - [49. Group Anagrams](leetcode/49.py)# solution: ASCII character of letters ord(l=i) - ord('a') = idx
 - [242. Valid Anagram](leetcode/242.py) # solution Hashmap
+- [20. Valid Parentheses](leetcode/20.py) solution : stack + hashmap
 
