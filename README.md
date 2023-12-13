@@ -18,4 +18,5 @@
 
 ## Strings
 - [3. Longest Substring Without Repeating Characters](leetcode/3.py) Solution Two pointer
+- [ 424. Longest Repeating Character Replacement](leetcode/424.py) Solution: sliding window + hashing
 
