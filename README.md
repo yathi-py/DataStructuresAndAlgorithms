@@ -23,4 +23,5 @@
 - [242. Valid Anagram](leetcode/242.py) # solution Hashmap
 - [20. Valid Parentheses](leetcode/20.py) solution : stack + hashmap
 - [125. Valid Palindrome](leetcode/125.py)Solution Two pointers with ASCII
+- [5. Longest Palindromic Substring](leetcode/5.py) Solution: Three pointers split from middle
 
