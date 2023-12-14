@@ -22,4 +22,5 @@
 - [49. Group Anagrams](leetcode/49.py)# solution: ASCII character of letters ord(l=i) - ord('a') = idx
 - [242. Valid Anagram](leetcode/242.py) # solution Hashmap
 - [20. Valid Parentheses](leetcode/20.py) solution : stack + hashmap
+- [125. Valid Palindrome](leetcode/125.py)Solution Two pointers with ASCII
 
