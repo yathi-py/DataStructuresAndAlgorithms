@@ -18,4 +18,4 @@ class Solution:
 # = O(1) + O(N) + O(1)
 # = O(N) ignore constants
 sol = Solution()
-print(sol.maxSubArray(nums = [1, 4, 2, 10, 2, 3, 1, 0, -20]))
+print(sol.maxSubArray(nums = [-20,1, 4, 2, 10, 2, 3, 1, 0, -20]))
