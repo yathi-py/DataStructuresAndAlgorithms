@@ -8,7 +8,7 @@ class Solution:
         dic = {}
         for r in range(len(s)):
             char= s[r]
-            if char in dic and dic[char]>=1:
+            if char in dic and dic[char]>=l:
                 l = dic[char] + 1
             else:
                 maxi = max(maxi, r - l + 1)
@@ -50,4 +50,4 @@ class Solution:
 
 
 sol = Solution()
-print(sol.twopointer(s = "tmmzuxt"))
+print(sol.twopointer(s = "datd"))
